@@ -1,0 +1,3 @@
+rootProject.name = 'rapifoodreactnative'
+
+include ':app'
